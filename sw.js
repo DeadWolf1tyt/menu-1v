@@ -2,12 +2,12 @@ const staticCacheName = 's-app-v3'
 // const dynamicCacheName = 'd-app-v3'
 
 const assetUrls = [
-  '/index.html',
-  '/app.js',
-  '/style.css',
-  '/burger.css',
-  '/script.js',
-  '/icon/favicon.ico'
+  'menu-1v/index.html',
+  'menu-1v/app.js',
+  'menu-1v/style.css',
+  'menu-1v/burger.css',
+  'menu-1v/script.js',
+  'menu-1v/icon/favicon.ico'
 ];
 
 // self.addEventListener('install', event => {
